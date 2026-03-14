@@ -41,3 +41,13 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
+
+
+
+## Bugs:
+
+- Give you the wrong hint
+- New game does not wipe the history and does not really restart the game
+- The level bounds are not actually working, they give random number between 0 and 100 despite the difficulty
+
